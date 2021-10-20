@@ -41,8 +41,8 @@ body{
 }
 #translate-output{
     width: 100%;
-    min-height: 15vh;
-    max-height: 30vh;
+    min-height: 10vh;
+    max-height: 20vh;
     overflow: scroll;
     border: 1px solid var(--black);
     border-bottom:var(--width-break) ;
