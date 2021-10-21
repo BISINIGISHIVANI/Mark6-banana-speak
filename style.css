@@ -39,6 +39,13 @@ body{
     font-size: large;
     font-family: 'Kalam', cursive;
 }
+#translate-button:hover{
+    color:aqua;
+}
+#translate-button:visited{
+    background-color: brown;
+} 
+
 #translate-output{
     width: 100%;
     min-height: 10vh;
