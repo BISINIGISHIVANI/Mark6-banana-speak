@@ -28,7 +28,8 @@ body{
     font-size:600;
     font-weight: bold;
     padding:1rem;
-    bottom:var(--width-break) ;
+    bottom:var(--width-break);
+    font-family: 'Kalam', cursive;
 }
 #translate-button{
     
